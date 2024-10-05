@@ -30,4 +30,4 @@ The page will reload if you make edits.
 
 # github url: https://github.com/2024OSS/5-assignment-4-2-react-practice-caaaaarroooot.git
 
-# netlify url: https://oss-4-2.netlify.app/
+# netlify url: https://main--oss-4-2.netlify.app/
