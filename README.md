@@ -9,11 +9,10 @@ React Tutorial Application in that:
     Delete User
     View Users
 
-
 # Project setup
 
 In the project directory, you can run:
-  
+
     npm install
      or
     yarn install
@@ -25,7 +24,10 @@ Compiles and hot-reloads for development
      or
     yarn start
 
-
 Open http://localhost:3000 to view it in the browser.
 
 The page will reload if you make edits.
+
+# github url: https://github.com/2024OSS/5-assignment-4-2-react-practice-caaaaarroooot.git
+
+# netlify url: https://oss-4-2.netlify.app/
